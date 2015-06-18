@@ -1,0 +1,14 @@
+#icon{
+    witdh: 20px;
+    height: 20px;
+    background-image: url(man.png);
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+}
+img {
+    width: 700px;
+    margin-top: 30px;
+}
+body {
+    padding: 40px;
+}
